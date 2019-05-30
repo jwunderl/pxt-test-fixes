@@ -1,6 +1,6 @@
 {
     "name": "pxt-test-fixes",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -13,5 +13,5 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
